@@ -1,0 +1,16 @@
+/*
+    You can add your own custom styles here.
+*/
+.widget-title.section-title {
+    display: none;
+}
+.container .left-sidebar {
+    min-width: 200px;
+}
+.not-found-card  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    min-height: 50vh;
+}
